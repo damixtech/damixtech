@@ -14,12 +14,20 @@ Hello, my name is Damián AR. I've been passionate about technology since I was 
 - Passionate about Linux and open-source software
 - Terminal enthusiast
 - Current GNU/Linux distros: Ubuntu and Pop_OS
-- Current stack:
+
+<br>
+
+### Current stack 🔧
   
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]()  [![Git](https://img.shields.io/badge/Git-yellow?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 ### Contact me ✉️
 [![Email](https://img.shields.io/badge/professional%20e--mail-white?style=for-the-badge&logo=gmail&logoColor=white&label=damitech%40tutamail.com&labelColor=black&color=%23EA4335)](mailto:dami@tutamail.com)
+
+<br>
+
+<br>
+
 
 # 🇪🇸 Hola👋 soy Damián AR😃
 
@@ -36,7 +44,10 @@ Hola, mi nombre es Damián AR. Soy un apasionado de la tecnología desde muy peq
   - Apasionado de Linux y el software de código abierto
   - Amante de la terminal
   - Distro actual GNU/Linux: Ubuntu y Pop_us
-  - Stack actual: 
+
+<br>
+
+  ### Stack actual 🔧 
   
   [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]()  [![Git](https://img.shields.io/badge/Git-yellow?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
